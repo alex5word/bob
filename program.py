@@ -1,2 +1,3 @@
 #Se citesc n numere. Sa se afiseze numerele palindrom.
 print("Buna")
+print("Buna din nou")
